@@ -1,9 +1,10 @@
 target/
+.mvn/
 .idea/
 .vscode/
 *.class
 *.log
 
-.env
-
 application-local.properties
+
+.env
